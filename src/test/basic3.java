@@ -18,15 +18,15 @@ public class basic3 {
 	}
 
 	@Test
-	public void testcase1() {
+	public void testcase21() {
 		System.out.println("Should be somewhere in the middle");
 	}
 	@Test
-	public void testcase2() {
-		System.out.println("Should be somewhere in the middle");
+	public void testcase22() {
+		System.out.println("Must be somewhere in the middle");
 	}	@Test
-	public void testcase3() {
-		System.out.println("Should be somewhere in the middle");
+	public void testcase23() {
+		System.out.println("Needs be somewhere in the middle");
 	}
 	@AfterTest
 	public void SoftwareLogin() {
