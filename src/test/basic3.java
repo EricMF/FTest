@@ -21,7 +21,13 @@ public class basic3 {
 	public void testcase1() {
 		System.out.println("Should be somewhere in the middle");
 	}
-
+	@Test
+	public void testcase2() {
+		System.out.println("Should be somewhere in the middle");
+	}	@Test
+	public void testcase3() {
+		System.out.println("Should be somewhere in the middle");
+	}
 	@AfterTest
 	public void SoftwareLogin() {
 		System.out.println("Ill execute last!");
